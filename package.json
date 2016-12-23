@@ -1,0 +1,24 @@
+{
+  "name": "utf16toEntities",
+  "version": "0.1.1",
+  "description": "emoji表情字符转换为字符实体",
+  "main": "dist/index.js",
+  "scripts": {
+    "dist": "gulp dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilien/utf16toEntities.git"
+  },
+  "author": "Vilien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vilien/utf16toEntities/issues"
+  },
+  "homepage": "https://github.com/vilien/utf16toEntities#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0"
+  }
+}

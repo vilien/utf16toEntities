@@ -1,0 +1,18 @@
+{
+  "name": "utf16toEntities",
+  "description": "无依赖utf8字符base64编解码模块，可安全用于微信小程序",
+  "main": "dist/index.js",
+  "authors": [
+    "Vilien"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vilien/utf16toEntities",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "package.json",
+    "gulpfile.js"
+  ]
+}
